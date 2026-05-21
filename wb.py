@@ -91,3 +91,4 @@ class WB:
 if __name__ == "__main__":
     wb = WB()
     wb.run()
+#then press ctrl + o then enter then ctrl + x and type "chmod +x wb.py
